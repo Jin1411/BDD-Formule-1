@@ -5,5 +5,5 @@ Projet visant à simuler des courses avec une classement final de Formule 1.
 
 
 Authors :
-- [HAFFNER Aurelian]()
+- [HAFFNER Aurelian](https://github.com/Jin1411)
 - [
