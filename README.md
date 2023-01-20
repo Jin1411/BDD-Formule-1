@@ -2,6 +2,7 @@
 Projet visant à simuler des courses avec une classement final de Formule 1.
 
 - Readme is comming
+- site web : https://saegroupe2.french-heberg.com/
 
 
 Authors :
